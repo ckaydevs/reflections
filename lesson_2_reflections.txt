@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+In a normal diretory history of files and commits are not recorded. to convert it to a git repository we need to move into that directory first. then type "git init" and press enter . this will intitalize the repository and create the hidden .git folder where the history and the metadata are recorded. 
+Initializing a repository doesn't create the first commit. and has untracked files. this can be seen by entering git status. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area shows the files that are connected to git and are being tracked. If we commit, files in the staging area get saved. Working directory is the directory we are working on and it might have many files that we are not tracking and hence they are not part of the reposittory. 
