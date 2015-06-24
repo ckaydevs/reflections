@@ -14,3 +14,13 @@ For each logicacl change I would add the connected files to the staging area and
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When branching out an application into two slightly different applications.
+
+How do the diagrams help you visualize the branch structure?
+ As in the videos show, it is quite a good way to track the changes. But WTF! It does not show up in  my screen. IDK WHY! Nah it worked. I mistanly creted the coins first.
+
+ What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+ It adds branches in to one branch that is checked out.
+
+ What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+ Automatically merging saves a lot of time. But two branches have too many differences there would be conflict. So in those cases manual process needs to be taken for conflicts. But I still prefer auto merging first and then checking out the conflicts and resolving them manually.
