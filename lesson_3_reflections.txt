@@ -6,3 +6,15 @@ So I would just update all of my work to the remote repository except very small
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 I would like to decide when my repository gets public rather than github doing it all the time.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Clone to copy from my github account to local computer. Branch to create new branch to wok on something different or bug fix or feature adding. I would use fork to copy my favourite repositories from different people in github to my git hub account.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Now that I have learnt to use github, it seems a really good way to collaborate. Unless I am meeting the other person regularly, its really convenient to use github.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I would be able to work more independently and I could also do some experimental work. 
